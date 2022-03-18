@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/jgramugl/bitwise-visualizer/static/css/main.073c9b0a.css",
-    "main.js": "/jgramugl/bitwise-visualizer/static/js/main.d197071a.js",
-    "static/js/787.31615f94.chunk.js": "/jgramugl/bitwise-visualizer/static/js/787.31615f94.chunk.js",
-    "static/media/logo.svg": "/jgramugl/bitwise-visualizer/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/jgramugl/bitwise-visualizer/index.html",
-    "main.073c9b0a.css.map": "/jgramugl/bitwise-visualizer/static/css/main.073c9b0a.css.map",
-    "main.d197071a.js.map": "/jgramugl/bitwise-visualizer/static/js/main.d197071a.js.map",
-    "787.31615f94.chunk.js.map": "/jgramugl/bitwise-visualizer/static/js/787.31615f94.chunk.js.map"
+    "main.css": "/bitwise-visualizer/static/css/main.073c9b0a.css",
+    "main.js": "/bitwise-visualizer/static/js/main.beee24ac.js",
+    "static/js/787.31615f94.chunk.js": "/bitwise-visualizer/static/js/787.31615f94.chunk.js",
+    "static/media/logo.svg": "/bitwise-visualizer/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/bitwise-visualizer/index.html",
+    "main.073c9b0a.css.map": "/bitwise-visualizer/static/css/main.073c9b0a.css.map",
+    "main.beee24ac.js.map": "/bitwise-visualizer/static/js/main.beee24ac.js.map",
+    "787.31615f94.chunk.js.map": "/bitwise-visualizer/static/js/787.31615f94.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.d197071a.js"
+    "static/js/main.beee24ac.js"
   ]
 }
